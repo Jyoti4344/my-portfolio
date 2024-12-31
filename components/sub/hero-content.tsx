@@ -32,12 +32,12 @@ export const HeroContent = () => {
           variants={slideInFromLeft(0.5)}
           className="flex flex-col gap-6 mt-6 text-6xl text-bold text-white max-w-[600px] w-auto h-auto"
         >
-          <span>
-            Providing{" "}
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-              the best
+          <span className="font-bold">
+          Transforming {" "}
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 font-bold">
+            ideas into 
             </span>{" "}
-            project experience.
+            digital reality.
           </span>
         </motion.div>
 
@@ -50,11 +50,14 @@ export const HeroContent = () => {
         </motion.p>
 
         <motion.a
-          variants={slideInFromLeft(1)}
-          className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
-        >
-          Learn more
-        </motion.a>
+  variants={slideInFromLeft(1)}
+  className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
+  href="https://drive.google.com/file/d/1g7cQ1bBYs37pEQqu2vbKvPbjK9M8GPAX/view?usp=drive_link"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Download CV
+</motion.a>
       </div>
 
       <motion.div
