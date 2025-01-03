@@ -48,11 +48,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jyoti4344/My-personal-portfolioit"
+    "url": "https://github.com/Jyoti4344/My-portfolioit"
   },
-  "homepage": "https://github.com/Jyoti4344/My-personal-portfolio#readme",
+  "homepage": "https://github.com/Jyoti4344/My-portfolio#readme",
   "bugs": {
-    "url": "https://github.com/Jyoti4344/My-personal-portfolio/issues",
+    "url": "https://github.com/Jyoti4344/My-portfolio/issues",
     "email": "jyotigoyal4344@gmail.com"
   },
   "dependencies": {

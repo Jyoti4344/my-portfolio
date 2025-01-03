@@ -48,7 +48,7 @@ The portfolio features:
 1. Clone this repository:
 
    bash
-   git clone https://github.com/Jyoti4344/My-personal-portfolio.git
+   git clone https://github.com/Jyoti4344/My-portfolio.git
    Navigate to the project directory:
    bash
    Copy code
