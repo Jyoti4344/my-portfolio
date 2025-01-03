@@ -69,7 +69,7 @@ export default function ContactModal() {
         <DialogHeader>
           <DialogTitle className="text-2xl font-bold text-center text-white">Contact Me</DialogTitle>
           <p className="text-center text-gray-400">
-            Fill out this form to send me a message. I'll get back to you as soon as possible.
+            Fill out this form to send me a message. I will get back to you as soon as possible.
           </p>
         </DialogHeader>
         <form ref={formRef} onSubmit={handleSubmit} className="space-y-4 mt-4">
