@@ -11,7 +11,7 @@
   "author": {
     "name": "Jyoti Goel",
     "email": "jyotigoyal4344@gmail.com",
-    "url": "https://github.com/yoti4344"
+    "url": "https://github.com/Jyoti4344"
   },
   "description": "Welcome to my full stack Next.js 14 space portfolio.",
   "keywords": [
@@ -48,23 +48,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhyy/space-portfolioit"
+    "url": "https://github.com/Jyoti4344/My-personal-portfolioit"
   },
-  "homepage": "https://github.com/sanidhyy/space-portfolio#readme",
+  "homepage": "https://github.com/Jyoti4344/My-personal-portfolio#readme",
   "bugs": {
-    "url": "https://github.com/sanidhyy/space-portfolio/issues",
-    "email": "sanidhya.verma12345@gmail.com"
+    "url": "https://github.com/Jyoti4344/My-personal-portfolio/issues",
+    "email": "jyotigoyal4344@gmail.com"
   },
-  "funding": [
-    {
-      "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
-    },
-    {
-      "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
-    }
-  ],
   "dependencies": {
     "@heroicons/react": "^2.1.1",
     "@radix-ui/react-dialog": "^1.1.4",

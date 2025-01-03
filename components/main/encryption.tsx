@@ -180,20 +180,6 @@ export const Encryption = () => {
               </div>
             )}
           </div>
-          {/* <div className="mt-6 flex flex-wrap gap-4 justify-center">
-            <div className="px-4 py-2 rounded-lg bg-black/20 backdrop-blur-sm border border-purple-500/10 hover:border-purple-500/30 transition-all hover:scale-105">
-              <span className="text-gray-400">Total submissions:</span>{" "}
-              <span className="text-purple-400 font-semibold">431</span>
-            </div>
-            <div className="px-4 py-2 rounded-lg bg-black/20 backdrop-blur-sm border border-purple-500/10 hover:border-purple-500/30 transition-all hover:scale-105">
-              <span className="text-gray-400">Total active days:</span>{" "}
-              <span className="text-purple-400 font-semibold">85</span>
-            </div>
-            <div className="px-4 py-2 rounded-lg bg-black/20 backdrop-blur-sm border border-purple-500/10 hover:border-purple-500/30 transition-all hover:scale-105">
-              <span className="text-gray-400">Max streak:</span>{" "}
-              <span className="text-purple-400 font-semibold">7</span>
-            </div>
-          </div> */}
         </motion.div>
       </div>
 
