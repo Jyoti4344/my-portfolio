@@ -18,7 +18,7 @@ Welcome to my Fullstack Developer Portfolio! This portfolio is a showcase of my 
    -> live host will soon, currently working on both projects
 
 - _Contact Section_: Easy ways to connect via social media or email.
-  [Linkdin](https://linkedin.com/in/jyoti-56-goel-/) - Let's Connect on Linkdin
+  [Linkdin](https://linkedin.com/in/jyoti-56-goel-/) - Let's Connect on Linkedin
   [Github](https://github.com/Jyoti4344/) - Let's Contribute
 
 ## 🛠 Tech Stack
