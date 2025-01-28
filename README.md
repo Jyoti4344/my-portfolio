@@ -8,8 +8,8 @@ Welcome to my Fullstack Developer Portfolio! This portfolio is a showcase of my 
 
 - _Interactive UI_: Built with cutting-edge web technologies for a responsive and dynamic user experience.
 - _Modern Design_: A visually appealing design, leveraging 3D elements for a futuristic look.
-- _About Me_: Currently, I'm an Undergrad Student and wants to work on a 3-D animated project, so i think why i won't make my Portfolio first. So that idea pitched me to learn and work on next and three, these are fantastic frameworks and easy to use and maintain.
-- _Skills Section_: Skills i used while making this project was next.js, three.js, tailwind, shadcnUI, vercel, framer-motion.
+- _About Me_: Currently, I'm an Undergrad Student and want to work on a 3-D animated project, so why won't I make my Portfolio first? So that idea pitched me to learn and work on next and three, these are fantastic frameworks and easy to use and maintain.
+- _Skills Section_: Skills I used while making this project was next.js, three.js, tailwind, shadcnUI, vercel, and framer-motion.
 - _Algorithms Showcase_: Highlights my passion for solving algorithmic challenges.
 - _Projects Section_: An overview of my major projects, with links to demos and source code.
 
@@ -87,8 +87,6 @@ The portfolio features:
    Tailwind CSS
    📄 License
    This project is licensed under the MIT License - see the LICENSE file for details.
-
-   vbnet
    Copy code
 
    Replace placeholders (like `apple-icon.png` and `Jyoti4344`) with your actual details. Let me know if you need further customization!
