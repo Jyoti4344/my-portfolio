@@ -85,8 +85,6 @@ The portfolio features:
    Next.js
    Three.js
    Tailwind CSS
-   📄 License
-   This project is licensed under the MIT License - see the LICENSE file for details.
    Copy code
 
    Replace placeholders (like `apple-icon.png` and `Jyoti4344`) with your actual details. Let me know if you need further customization!
