@@ -87,4 +87,4 @@ The portfolio features:
    Tailwind CSS
    Copy code
 
-   Replace placeholders (like `apple-icon.png` and `Jyoti4344`) with your actual details. Let me know if you need further customization!
+   Replace placeholders (like `apple-icon.png` and `Jyoti4344`) with your actual details. Let me know if you need further customization!!
