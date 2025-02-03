@@ -20,7 +20,7 @@ Welcome to my Fullstack Developer Portfolio! This portfolio is a showcase of my 
   [Linkdin](https://linkedin.com/in/jyoti-56-goel-/) - Let's Connect on Linkedin
   [Github](https://github.com/Jyoti4344/) - Let's Contribute
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack:
 
 - _Framework_: [Next.js](https://nextjs.org/) - A React-based framework for building fast and scalable web applications.
 - _Programming Language_: TypeScript - For better code maintainability and type safety.
