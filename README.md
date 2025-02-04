@@ -66,9 +66,9 @@ The portfolio features:
 2. Future Improvements
 
    bash
-   Add light/dark mode toggle.
-   Optimize performance for mobile devices.
-   Implement animations using Framer Motion.
+   - Add light/dark mode toggle.
+   - Optimize performance for mobile devices.
+   - Implement animations using Framer Motion.
    🙌 Connect With Me
    Feel free to reach out or connect with me on:
 
