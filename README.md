@@ -79,11 +79,9 @@ The portfolio features:
    Your feedback is valuable! If you have suggestions or find bugs, please feel free to open an issue in this repository.
 
 3. Acknowledgments
-
    bash
    Next.js
    Three.js
    Tailwind CSS
    Copy code
-
    Replace placeholders (like `apple-icon.png` and `Jyoti4344`) with your actual details. Let me know if you need further customization!!
