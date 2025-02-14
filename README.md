@@ -1,7 +1,6 @@
 # Fullstack Developer Portfolio
 
 Welcome to my Fullstack Developer Portfolio! This portfolio showcases my skills, projects, and achievements as a full-stack software developer. It's designed to give visitors a seamless and visually engaging experience while exploring my work.
-
 ---
 ## 🚀 Features
 
