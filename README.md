@@ -11,6 +11,7 @@ Welcome to my Fullstack Developer Portfolio! This portfolio showcases my skills,
 - _Algorithms Showcase_: Highlights my passion for solving algorithmic challenges.
 - _Projects Section_: An overview of my major projects, with links to demos and source code.
 
+
 1. QuickHire - https://github.com/Jyoti4344/Quick-Hire
 2. JobPortal - https://github.com/jyoti4344/Job-Portal
    -> live host will soon, currently working on both projects
