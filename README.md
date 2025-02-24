@@ -71,7 +71,6 @@ The portfolio features:
    - Implement animations using Framer Motion.
    🙌 Connect With Me
    Feel free to reach out or connect with me on:
-
    [Linkdin](https://linkedin.com/in/jyoti-56-goel-/)
    [Twitter](https://x.com/JyotiGoel2407)
    [Github](https://github.com/Jyoti4344/)
@@ -84,4 +83,4 @@ The portfolio features:
    Three.js
    Tailwind CSS
    Copy code
-   Replace placeholders (like `apple-icon.png` and `Jyoti4344`) with your actual details. Let me know if you need further customization!!
+   Replace placeholders (like `apple-icon.png` and `Jyoti4344`) with your actual details. Feel free to let me know if you need additional customization!!
