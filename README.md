@@ -7,7 +7,7 @@ Welcome to my Fullstack Developer Portfolio! This portfolio showcases my skills,
 - _Interactive UI_: Built with cutting-edge web technologies for a responsive and dynamic user experience.
 - _Modern Design_: A visually appealing design, leveraging 3D elements for a futuristic look.
 - _About Me_: I'm an Undergrad student and want to work on a 3-D animated project, so why won't I make my Portfolio first? So that idea piqued my interest in learning and working on next.js and three.js; these are fantastic frameworks and are easy to use and maintain.
-- _Skills Section_: Skills I used while making this project were next.js, three.js, tailwind, shadcnUI, vercel, and framer-motion.
+- _Skills Section_: The skills I used while working on this project were Next.js, three.js, tailwindCSS, ShadcnUI, vercel, and framer-motion.
 - _Algorithms Showcase_: Highlights my passion for solving algorithmic challenges.
 - _Projects Section_: An overview of my major projects, with links to demos and source code.
 
