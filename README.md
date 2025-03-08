@@ -14,7 +14,6 @@ Welcome to my Fullstack Developer Portfolio! This portfolio showcases my skills,
 
 1. QuickHire - https://github.com/Jyoti4344/Quick-Hire
 2. JobPortal - https://github.com/jyoti4344/Job-Portal
-   -> live host will soon, currently working on both projects
 
 - _Contact Section_: Easy ways to connect via social media or email.
   [LinkedIn](https://linkedin.com/in/jyoti-56-goel-/) - Let's Connect on LinkedIn
